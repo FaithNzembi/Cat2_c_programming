@@ -1,6 +1,6 @@
 /*
-Name: Mary Wambui Kamau 
-Reg no: CT101/G/26514/25
+Name: FAITH NZEMBI 
+Reg no: CT101/G/22641/24
 Description: CAT2_Q2
 */
 
