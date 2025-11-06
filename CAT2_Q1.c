@@ -1,6 +1,6 @@
 /*
-Name: Mary Wambui Kamau 
-Reg No CT101/G/26514/25
+Name: FAITH NZEMBI 
+Reg No CT101/G/22641/24 
 Description: 2D_array
 */
 
